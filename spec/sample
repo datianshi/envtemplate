@@ -1,0 +1,2 @@
+host={{.SMTP_HOST}}
+username={{.SMTP_USERNAME}}
